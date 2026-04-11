@@ -1,0 +1,12 @@
+{
+  "export_job_id": "1f325203-9aa0-456d-a838-565ad838c124",
+  "id_short": 735844,
+  "published_at": "2026-04-11T19:47:53Z",
+  "repo_name": "all-restaurants-in-danbury-connecticut-us-sample-735844",
+  "sample_asset_name": "beamstation_735844_restaurants-us-ct_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/735844/beamstation_735844_restaurants-us-ct_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "ca04e395a76f91a71e7921f169d3274974cbc2e80e97d551c8a25a50ed9e1d8b",
+  "sample_size_bytes": 115414,
+  "total_records": 452
+}
