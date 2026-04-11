@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant intelligence dataset for Danbury, Connecticut. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Danbury, Connecticut, US",
+  "export_job_id": "1f325203-9aa0-456d-a838-565ad838c124",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 735844,
+  "location_name": "Danbury",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-danbury-connecticut-us-sample-735844",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/735844/beamstation_735844_restaurants-us-ct_SAMPLE_DIST.csv",
+  "sample_pct": 5.53,
+  "sample_records": 25,
+  "sample_sha256": "ca04e395a76f91a71e7921f169d3274974cbc2e80e97d551c8a25a50ed9e1d8b",
+  "sample_size_bytes": 115414,
+  "total_records": 452,
+  "updated_at": "2026-03-31T15:27:33.886445+00:00"
+}
