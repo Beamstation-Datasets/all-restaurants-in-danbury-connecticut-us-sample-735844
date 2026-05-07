@@ -1,6 +1,6 @@
 # All Restaurants in Danbury, Connecticut, US
 
-> Free BeamStation sample export with 65 rows and masked direct-contact fields.
+> Free BeamStation sample export with 66 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `735844` |
 | Location | Danbury |
 | Category | Restaurants |
-| Full dataset size | 654 records |
-| Free sample size | 65 records (9.94%) |
-| Last export | 2026-04-28T18:48:29.891490+00:00 |
+| Full dataset size | 665 records |
+| Free sample size | 66 records (9.92%) |
+| Last export | 2026-05-07T04:40:20.816630+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-danbury-connecticut-us-sample-735844/releases/download/sample-latest/beamstation_735844_restaurants-us-ct_SAMPLE_DIST.csv) |
 
 ## What is in this sample
